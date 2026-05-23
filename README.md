@@ -29,16 +29,14 @@ This project is divided into stages:
 
 ## Hardware
 
-### Components Used
+### Components Used and PCB
 
 - Microcontroller
 - IR sensors
 - Motor drivers
 - DC motors
-- Battery system
 - Encoders
 
-### PCB
 
 Include images of:
 - PCB layout
@@ -47,42 +45,5 @@ Include images of:
 
 ---
 
-## Software
-
-### Algorithms
-
-Explain:
-- Flood fill
-- Matrix mapping
-- Path optimization
-- Movement logic
-
-### State Machine
-
-Show how the robot changes between:
-- Searching
-- Mapping
-- Solving
-- Returning
-
----
-
 ## Maze Solving Logic
-
-Describe:
-1. How walls are detected
-2. How the maze is stored
-3. How the shortest path is calculated
-4. How the robot optimizes movement
-
----
-
-## Images
-
-Add:
-- Robot photos
-- PCB screenshots
-- Maze tests
-- Simulation images
-
----
+In the simulation, Bills creates a logic that reads the remaining path and follows it towards the center.
