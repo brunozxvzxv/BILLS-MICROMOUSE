@@ -37,12 +37,6 @@ This project is divided into stages:
 - DC motors
 - Encoders
 
-
-Include images of:
-- PCB layout
-- 3D PCB render
-- Manufactured board
-
 ---
 
 ## Maze Solving Logic
