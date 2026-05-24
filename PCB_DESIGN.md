@@ -12,7 +12,7 @@ In this section, I present the evolution of the printed circuit board (PCB) desi
 
 ##  Design Evolution
 
-### 1️⃣ First Prototype (First Design)
+### First Prototype (First Design)
 > **Initial Approach:** In the first design, I implemented a full **ground plane** method across the board and tried to keep the traces as straight and parallel as possible to prevent signal noise in the sensor readings.
 
 <p align="center">
