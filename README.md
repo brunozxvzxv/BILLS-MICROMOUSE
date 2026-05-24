@@ -4,9 +4,7 @@ Bills is a micromouse robot designed to solve mazes using logic and matrix-based
 
 ---
 
-div align="center"
-img src="<img width="739" height="733" alt="Image" src="https://github.com/user-attachments/assets/e8ef0b51-64d2-4508-87fe-5a3c08f7f2fa" />"
-/div
+<img width="739" height="733" alt="Image" src="https://github.com/user-attachments/assets/e8ef0b51-64d2-4508-87fe-5a3c08f7f2fa" />"
 
 ## Features
 
