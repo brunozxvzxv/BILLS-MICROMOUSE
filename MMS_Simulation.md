@@ -27,5 +27,10 @@ Here are the breakdown assessments of the navigation logic across different grid
 ## Code Shortcuts
 
 Want to see the actual software controlling these simulations? 
+---
 
-* 📂 **[Go directly to the Maze Solving Logic Code Section](#logic_MMS_simulator)** — Click here to instantly jump to the detailed code breakdown, structure mapping, and full C++ source file script inside this repository.
+### 🔀 Simulation Tracking
+
+* 🧭 **[Click here to jump straight to the MMS Simulation Logic Code](#-maze-solving-logic--flood-fill-algorithm)** to inspect how the coordinate navigation functions run inside the virtual matrix before flashing.
+
+---
