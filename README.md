@@ -4,7 +4,7 @@ Bills is a micromouse robot designed to solve mazes using logic and matrix-based
 
 ---
 
-<img width="739" height="733" alt="Image" src="https://github.com/user-attachments/assets/e8ef0b51-64d2-4508-87fe-5a3c08f7f2fa" />"
+<img width="739" height="733" alt="Image" src="https://github.com/user-attachments/assets/e8ef0b51-64d2-4508-87fe-5a3c08f7f2fa" />
 
 ## Features
 
@@ -44,10 +44,4 @@ This project is divided into stages:
 ## Maze Solving Logic
 In the simulation, Bills creates a logic that reads the remaining path and follows it towards the center.
 --- 
-## 📷 Galeria do Projeto
 
-![maze](./Images/Maze.jpeg)
-![PCB](./Images/PCB.png)
-![PhysicalRobot](./Images/PhysicalRobot.jpeg)
-![3d](./Images/3Dpcb.png)
-![trackless-board](./Images/trackless-board.png)
