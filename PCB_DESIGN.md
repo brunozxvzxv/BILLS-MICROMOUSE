@@ -16,7 +16,7 @@ In this section, I present the evolution of the printed circuit board (PCB) desi
 > **Initial Approach:** In the first design, I implemented a full **ground plane** method across the board and tried to keep the traces as straight and parallel as possible to prevent signal noise in the sensor readings.
 
 <p align="center">
-  <img src="./Images/trackless-board.png" width="80%" alt="First PCB Prototype" />
+  <img src="./Images/First_Try.png" width="80%" alt="First PCB Prototype" />
 </p>
 
 ---
