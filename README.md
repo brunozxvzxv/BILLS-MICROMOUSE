@@ -43,3 +43,11 @@ This project is divided into stages:
 
 ## Maze Solving Logic
 In the simulation, Bills creates a logic that reads the remaining path and follows it towards the center.
+--- 
+## 📷 Galeria do Projeto
+
+![maze](./Images/Maze.jpeg)
+![PCB](./Images/PCB.png)
+![PhysicalRobot](./Images/PhysicalRobot.jpeg)
+![3d](./Images/3Dpcb.png)
+![trackless-board](./Images/trackless-board.png)
