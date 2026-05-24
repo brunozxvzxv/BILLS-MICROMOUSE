@@ -31,6 +31,6 @@ Want to see the actual software controlling these simulations?
 
 ### 🔀 Simulation Tracking
 
-* 🧭 **[Click here to jump straight to the MMS Simulation Logic Code](#./firmware/Logic_MMS_simulator.md)** to inspect how the coordinate navigation functions run inside the virtual matrix before flashing.
+*  **[Click here to view the MMS Simulation Logic Code](./firmware/Logic_MMS_simulator.md)** to inspect how the coordinate navigation functions run inside the virtual matrix before flashing.
 
 ---
