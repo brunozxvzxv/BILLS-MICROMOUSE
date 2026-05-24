@@ -32,5 +32,6 @@ Want to see the actual software controlling these simulations?
 ### 🔀 Simulation Tracking
 
 * 🧭 **[Click here to jump straight to the MMS Simulation Logic Code](#-maze-solving-logic--flood-fill-algorithm)** to inspect how the coordinate navigation functions run inside the virtual matrix before flashing.
-
+**[Click here to jump straight to the MMS Simulation Logic Code](#logic-mms-simulator)**
+  **[Click here to jump straight to the MMS Simulation Logic Code](#logic-mms)**
 ---
